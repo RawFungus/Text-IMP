@@ -1,6 +1,7 @@
 # Text IMP v1.18.5
 
 **Text IMP** is a script for importing and updating text layers in Adobe After Effects from a JSON file or directly within the project. It provides a user-friendly interface for managing text layers, exporting them to JSON, and updating them based on external data.
+The code comments are in Russian, as well as the text of the buttons. However, you can easily request any LLM to translate it into your preferred language for personal use.
 
 ---
 
