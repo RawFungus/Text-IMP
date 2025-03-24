@@ -144,4 +144,4 @@ GitHub: [https://github.com/RawFungus](https://github.com/RawFungus)
 ---
 
 ## License
-This script is provided "as is" without warranty of any kind. Use it at your own risk.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
