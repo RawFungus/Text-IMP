@@ -2,6 +2,10 @@
 // Требования: Legacy ExtendScript (JavaScript) для Adobe After Effects  
 // Автор: RawFungus  (https://github.com/RawFungus)
 
+// Copyright(c) 2025 Evgeny G.
+// https://github.com/RawFungus
+// This script is distributed under the MIT License.
+// See the LICENSE file for details.
 
 
 // --- Основная функция для создания пользовательского интерфейса ---
