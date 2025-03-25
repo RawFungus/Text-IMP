@@ -137,4 +137,4 @@ GitHub: [https://github.com/RawFungus](https://github.com/RawFungus)
 ---
 
 ## Лицензия
-Этот скрипт предоставляется "как есть" без каких-либо гарантий. Используйте его на свой страх и риск.
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
